@@ -1,0 +1,25 @@
+.bg-img {
+    align-items: center;
+    background-image: url("../images/background.jpg");
+}
+.bg-white {
+    background-color: $white;
+}
+.bg-black1 {
+	background-color: darken($white, 80%);
+	padding: 20px;	
+}
+.bg-black2 {
+	background-color: darken($white, 100%);
+	padding: 20px;
+}
+.bg-black3 {
+	background-color: darken($white, 95%); 
+	padding: 20px;
+}
+.lien-utile {
+	width: 80px;
+}
+.footer {
+	color : white;
+}
